@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  public number: number = 5000;
-  public amount_after_dot: number = 0;
+  public number: number = 5060000005000;
+  public amount_after_dot: number = 3;
 }
